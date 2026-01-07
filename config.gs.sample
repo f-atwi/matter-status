@@ -1,0 +1,6 @@
+const USER_CONFIG = {
+  WORK_START_HOUR: 8,
+  WORK_END_HOUR: 18,
+  MATTERMOST_URL: "https://your-mattermost-instance.com",
+  MATTERMOST_TOKEN: "your-mattermost-token-here",
+};
